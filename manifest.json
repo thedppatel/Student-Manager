@@ -1,6 +1,6 @@
 {
-  "name": "Daily Attendance",
-  "short_name": "Daily Attendance",
+  "name": "Student Manager",
+  "short_name": "Student Manager",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1e1b4b",
